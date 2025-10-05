@@ -1,94 +1,76 @@
-<h1 align="center">👋 Hi, I'm Felipe</h1>
-<h3 align="center">💻 Frontend Developer | 🌎 From Colombia</h3>
+<h1 align="center">👋 Hi, I'm Felipe Pinto</h1>
+<h3 align="center">💻 Full Stack Developer | Passionate about building scalable web applications</h3>
 
 <p align="center">
-  Passionate about building interactive, performant, and elegant user interfaces.<br>
-  I enjoy turning complex problems into simple, beautiful, and intuitive designs.
-</p>
-
----
-
-### 🌐 Connect with me
-<p align="center">
-  <a href="https://twitter.com/pintofelipe77" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/pintofelipe77?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-  <a href="https://github.com/pintofelipe" target="_blank">
-    <img src="https://img.shields.io/github/followers/pintofelipe?logo=github&style=for-the-badge" alt="GitHub followers" />
-  </a>
+  🌍 From <b>Colombia</b> • 🚀 Always learning and improving every day
 </p>
 
 ---
 
 ### 🧠 About Me
-
-- 🎯 Focused on **frontend development** using modern frameworks.  
-- 🌱 Currently learning **Next.js**, **TypeScript**, and **Tailwind CSS**.  
-- 🧩 Interested in **AI**, **mobile development** (Android + Kotlin), and **competitive programming**.  
-- 🎨 I love blending creativity with logic to craft engaging digital experiences.  
+- 🎯 I’m a **Full Stack Developer** focused on crafting modern, efficient, and user-friendly applications.  
+- 🧩 I’ve worked with **Flask**, **Express**, **React**, **PostgreSQL**, and **MongoDB**.  
+- 🧑‍💻 Currently learning more about **competitive programming** and **system design**.  
+- 💡 I love solving problems and turning ideas into digital solutions.  
+- ⚡ Fun fact: I drink coffee like it's a debugging ritual ☕  
 
 ---
 
-### ⚙️ Languages & Tools
+### 🛠️ Tech Stack
 
+#### 💻 Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+</p>
+
+#### ⚙️ Frameworks & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+</p>
+
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+</p>
+
+#### 🧰 Other Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="45" height="45"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pintofelipe&show_icons=true&theme=tokyonight" alt="Felipe's GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintofelipe&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://twitter.com/pintofelipe77" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pintofelipe77" height="30" width="40" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45"/>
-  </a>
-  <a href="https://vuejs.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="45" height="45"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="45" height="45"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="45" height="45"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45"/>
-  </a>
-  <a href="https://isocpp.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="45" height="45"/>
+  <a href="https://linkedin.com/in/pintofelipe" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pintofelipe&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pintofelipe&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pintofelipe&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-- 🧠 **AI Chatbot (React + OpenAI API)** — conversational assistant for a perfume store.  
-- 📱 **MiNota App (Kotlin)** — university grade calculator following UFPSO policies.  
-- 🌍 **Languages with AI** — educational web app for language learning powered by GPT models.
-
----
-
-### 💬 Quote I Live By
-> "Code is like humor. When you have to explain it, it’s bad." — *Cory House*
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pintofelipe&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
+  🚀 “Code is like humor. When you have to explain it, it’s bad.”  
 </p>
